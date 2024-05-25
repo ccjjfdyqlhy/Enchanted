@@ -1,5 +1,5 @@
 # Enchanted
-这里放置的是Minecraft Enchanted中原创的修改模块源代码。  
+这里放置的是Minecraft Enchanted中原创的修改模块源代码。此外，Releases页面提供面向Team Enchanted版本更新工具的下载链接。  
 目前包含3部分:  
 - pluginloader: 一个插件加载器，能够通过加载插件简化整合包的模组加载过程。  
 - DSPL: 为pluginloader提供图形化操作界面，将静默参数以简洁明了的方式转换成配置界面。
